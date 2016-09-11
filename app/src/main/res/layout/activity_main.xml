@@ -111,4 +111,35 @@
         android:text="Bomb Jacket"
         android:id="@+id/checkBoxBJ"
         android:checked="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Domisili"
+        android:id="@+id/textView5" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerDomisili" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Hasil"
+        android:id="@+id/textViewHasil2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Hasil"
+        android:id="@+id/textViewHasil3" />
 </LinearLayout>
+</ScrollView>
