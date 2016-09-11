@@ -88,28 +88,28 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Blouse"
-        android:id="@+id/checkBoxBL"
+        android:id="@+id/checkBox1"
         android:checked="false" />
 
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Culotes"
-        android:id="@+id/checkBoxCL"
+        android:id="@+id/checkBox2"
         android:checked="false" />
 
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Jogger Pants"
-        android:id="@+id/checkBoxJP"
+        android:id="@+id/checkBox3"
         android:checked="false" />
 
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Bomb Jacket"
-        android:id="@+id/checkBoxBJ"
+        android:id="@+id/checkBox4"
         android:checked="false" />
 
     <TextView
@@ -127,8 +127,8 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
-        android:id="@+id/button"
+        android:text="Order"
+        android:id="@+id/buttonOrder"
         android:layout_gravity="center_horizontal" />
 
     <TextView
